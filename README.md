@@ -1,1 +1,1 @@
-This is my config file for an improved for workflow with AeroSpace.
+This is my config file for an improved workflow with AeroSpace.
